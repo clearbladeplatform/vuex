@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,vuex",
+    "logging_enabled": "false",
+    "name": "vuexSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "vuexSmokeTest.js"
+}
